@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "en": "apple",
+    "nl": "de appel"
+  },
+  {
+    "id": 1,
+    "en": "orange",
+    "nl": "de sinaasappel"
+  },
+  {
+    "id": 2,
+    "en": "egg",
+    "nl": "het ei"
+  },
+  {
+    "id": 3,
+    "en": "carrot",
+    "nl": "de peen"
+  },
+  {
+    "id": 4,
+    "en": "salad",
+    "nl": "de sla"
+  },
+  {
+    "id": 5,
+    "en": "dishes",
+    "nl": "het gerecht"
+  },
+  {
+    "id": 6,
+    "en": "pineapple",
+    "nl": "de ananas"
+  }
+]
