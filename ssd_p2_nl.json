@@ -1,88 +1,8 @@
 [
   {
-    "id": 18,
-    "en": "extremely tired",
-    "nl": "doodmoe"
-  },
-  {
-    "id": 17,
-    "en": "money",
-    "nl": "het contant geld"
-  },
-  {
-    "id": 16,
-    "en": "embarrassed",
-    "nl": "opgelaten"
-  },
-  {
-    "id": 15,
-    "en": "cheerful",
-    "nl": "vrolijk"
-  },
-  {
-    "id": 14,
-    "en": "decide",
-    "nl": "besluiten"
-  },
-  {
-    "id": 13,
-    "en": "easy",
-    "nl": "gemakkelijk"
-  },
-  {
-    "id": 12,
-    "en": "overcrowded",
-    "nl": "overvol"
-  },
-  {
-    "id": 11,
-    "en": "memory",
-    "nl": "het geheugen"
-  },
-  {
-    "id": 10,
-    "en": "direct",
-    "nl": "rechtstreeks"
-  },
-  {
-    "id": 9,
-    "en": "worry",
-    "nl": "zich zorgen maken"
-  },
-  {
-    "id": 8,
-    "en": "wake up",
-    "nl": "wakker worden"
-  },
-  {
-    "id": 7,
-    "en": "public transport",
-    "nl": "het openbaar vervoer"
-  },
-  {
-    "id": 6,
-    "en": "compare",
-    "nl": "vergelijken"
-  },
-  {
-    "id": 5,
-    "en": "recommend",
-    "nl": "aanbevelen"
-  },
-  {
-    "id": 4,
-    "en": "dishes",
-    "nl": "het gerecht"
-  },
-  {
-    "id": 3,
-    "en": "usual",
-    "nl": "gebruikelijk"
-  },
-  {
-    "id": 2,
-    "en": "quiet",
-    "nl": "stil"
+    "id": 0,
+    "en": "cheek",
+    "nl": "de wang"
   },
   {
     "id": 1,
@@ -90,8 +10,88 @@
     "nl": "verlegen"
   },
   {
-    "id": 0,
-    "en": "cheek",
-    "nl": "de wang"
+    "id": 2,
+    "en": "quiet",
+    "nl": "stil"
+  },
+  {
+    "id": 3,
+    "en": "usual",
+    "nl": "gebruikelijk"
+  },
+  {
+    "id": 4,
+    "en": "dishes",
+    "nl": "het gerecht"
+  },
+  {
+    "id": 5,
+    "en": "recommend",
+    "nl": "aanbevelen"
+  },
+  {
+    "id": 6,
+    "en": "compare",
+    "nl": "vergelijken"
+  },
+  {
+    "id": 7,
+    "en": "public transport",
+    "nl": "het openbaar vervoer"
+  },
+  {
+    "id": 8,
+    "en": "wake up",
+    "nl": "wakker worden"
+  },
+  {
+    "id": 9,
+    "en": "made concerned",
+    "nl": "zich zorgen maken"
+  },
+  {
+    "id": 10,
+    "en": "direct",
+    "nl": "rechtstreeks"
+  },
+  {
+    "id": 11,
+    "en": "memory",
+    "nl": "het geheugen"
+  },
+  {
+    "id": 12,
+    "en": "overcrowded",
+    "nl": "overvol"
+  },
+  {
+    "id": 13,
+    "en": "easy",
+    "nl": "gemakkelijk"
+  },
+  {
+    "id": 14,
+    "en": "decide",
+    "nl": "besluiten"
+  },
+  {
+    "id": 15,
+    "en": "cheerful",
+    "nl": "vrolijk"
+  },
+  {
+    "id": 16,
+    "en": "embarrassed",
+    "nl": "opgelaten"
+  },
+  {
+    "id": 17,
+    "en": "money",
+    "nl": "het contant geld"
+  },
+  {
+    "id": 18,
+    "en": "extremely tired",
+    "nl": "doodmoe"
   }
 ]

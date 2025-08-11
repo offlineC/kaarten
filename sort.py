@@ -14,10 +14,18 @@ for filename in os.listdir(downloads_path):
     
     # Separate name and extension
     name_without_ext, ext = os.path.splitext(filename)
+    
+    
+    
+    if os.path.isfile(file_path) and "_nl_revision" in name_without_ext.lower():
+        shutil.move(file_path, os.path.join(nl_folder,'revision', filename))
+        print(f"Moved: {filename}")
 
     # Check if "_nl" appears anywhere in the filename (excluding extension)
     if os.path.isfile(file_path) and "_nl" in name_without_ext.lower():
         shutil.move(file_path, os.path.join(nl_folder, filename))
         print(f"Moved: {filename}")
+        
+    
 
 print("Done!")
