@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "en": "geweldig",
+    "nl": "great",
+    "isCorrect": false
+  },
+  {
+    "id": 1,
+    "en": "zich zorgen maken",
+    "nl": "worry",
+    "isCorrect": false
+  },
+  {
+    "id": 3,
+    "en": "waarschijnlijk",
+    "nl": "probably",
+    "isCorrect": false
+  },
+  {
+    "id": 5,
+    "en": "wijzen",
+    "nl": "to point to something",
+    "isCorrect": false
+  },
+  {
+    "id": 10,
+    "en": "de uitwisselingsstudent",
+    "nl": "exchange student",
+    "isCorrect": false
+  },
+  {
+    "id": 13,
+    "en": "vergelijken",
+    "nl": "compare",
+    "isCorrect": false
+  }
+]
