@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "en": "verdwijnen",
+    "nl": "disappear",
+    "isCorrect": false
+  },
+  {
+    "id": 12,
+    "en": "voorzichtig",
+    "nl": "cautiously",
+    "isCorrect": false
+  },
+  {
+    "id": 16,
+    "en": "de beweging",
+    "nl": "movement",
+    "isCorrect": false
+  },
+  {
+    "id": 17,
+    "en": "bewijzen",
+    "nl": "prove",
+    "isCorrect": false
+  },
+  {
+    "id": 23,
+    "en": "zich inbeelden",
+    "nl": "imagine",
+    "isCorrect": false
+  },
+  {
+    "id": 26,
+    "en": "verwaald raken",
+    "nl": "get lost",
+    "isCorrect": false
+  },
+  {
+    "id": 30,
+    "en": "iemand voor de gek houden",
+    "nl": "prank someone",
+    "isCorrect": false
+  },
+  {
+    "id": 31,
+    "en": "waarschijnlijk",
+    "nl": "probably",
+    "isCorrect": false
+  },
+  {
+    "id": 32,
+    "en": "hier klop iets niet",
+    "nl": "something just does not add up",
+    "isCorrect": false
+  }
+]
