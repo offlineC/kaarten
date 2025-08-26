@@ -1,127 +1,107 @@
 [
   {
-    "id": 24,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 23,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 22,
-    "en": "",
-    "nl": ""
-  },
-  {
     "id": 21,
-    "en": "",
-    "nl": ""
+    "en": "fountain",
+    "nl": "de fontein"
   },
   {
     "id": 20,
-    "en": "",
-    "nl": ""
+    "en": "polluted",
+    "nl": "bevuild"
   },
   {
     "id": 19,
-    "en": "",
-    "nl": ""
+    "en": "show",
+    "nl": "tonen"
   },
   {
     "id": 18,
-    "en": "",
-    "nl": ""
+    "en": "power to rule",
+    "nl": "de macht"
   },
   {
     "id": 17,
-    "en": "",
-    "nl": ""
+    "en": "terrible",
+    "nl": "vreselijk"
   },
   {
     "id": 16,
-    "en": "",
-    "nl": ""
+    "en": "fight",
+    "nl": "het gevecht"
   },
   {
     "id": 15,
-    "en": "",
-    "nl": ""
+    "en": "suggest",
+    "nl": "voorstellen"
   },
   {
     "id": 14,
-    "en": "",
-    "nl": ""
+    "en": "reason",
+    "nl": "de reden"
   },
   {
     "id": 13,
-    "en": "",
-    "nl": ""
+    "en": "lake",
+    "nl": "het meer"
   },
   {
     "id": 12,
-    "en": "",
-    "nl": ""
+    "en": "enchanted",
+    "nl": "betoverd"
   },
   {
     "id": 11,
-    "en": "",
-    "nl": ""
+    "en": "seriously",
+    "nl": "ernstig"
   },
   {
     "id": 10,
-    "en": "",
-    "nl": ""
+    "en": "soldier",
+    "nl": "soldaat"
   },
   {
     "id": 9,
-    "en": "",
-    "nl": ""
+    "en": "battle",
+    "nl": "de veldslag"
   },
   {
     "id": 8,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 7,
-    "en": "",
-    "nl": ""
+    "en": "peaceful",
+    "nl": "vreedzaam"
   },
   {
     "id": 6,
-    "en": "",
-    "nl": ""
+    "en": "bathe",
+    "nl": "baden"
   },
   {
     "id": 5,
-    "en": "",
-    "nl": ""
+    "en": "secret",
+    "nl": "het geheim"
   },
   {
     "id": 4,
-    "en": "",
-    "nl": ""
+    "en": "look like",
+    "nl": "lijken op"
   },
   {
     "id": 3,
-    "en": "",
-    "nl": ""
+    "en": "lose",
+    "nl": "verliezen"
   },
   {
     "id": 2,
-    "en": "",
-    "nl": ""
+    "en": "magic water",
+    "nl": "het toverwater"
   },
   {
     "id": 1,
-    "en": "",
-    "nl": ""
+    "en": "tax",
+    "nl": "de belasting"
   },
   {
     "id": 0,
-    "en": "",
-    "nl": ""
+    "en": "freedom",
+    "nl": "de vrede"
   }
 ]
