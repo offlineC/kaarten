@@ -1,107 +1,127 @@
 [
   {
-    "id": 20,
-    "en": "",
-    "nl": ""
+    "id": 24,
+    "en": "wagon",
+    "nl": "het rijtuig"
   },
   {
-    "id": 19,
-    "en": "",
-    "nl": ""
+    "id": 23,
+    "en": "murder",
+    "nl": "vermorden"
   },
   {
-    "id": 18,
-    "en": "",
-    "nl": ""
+    "id": 22,
+    "en": "protect",
+    "nl": "beschermen"
   },
   {
-    "id": 17,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 16,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 15,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 14,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 13,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 12,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 11,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 10,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 9,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 8,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 7,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 6,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 5,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 4,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 3,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 2,
-    "en": "",
-    "nl": ""
-  },
-  {
-    "id": 1,
-    "en": "",
-    "nl": ""
+    "id": 21,
+    "en": "survive",
+    "nl": "overleven"
   },
   {
     "id": 0,
-    "en": "",
-    "nl": ""
+    "en": "knight",
+    "nl": "de ridder"
+  },
+  {
+    "id": 1,
+    "en": "kingdom",
+    "nl": "het koninkrijk"
+  },
+  {
+    "id": 2,
+    "en": "trader",
+    "nl": "de handelaar"
+  },
+  {
+    "id": 3,
+    "en": "potion",
+    "nl": "de toverdrank"
+  },
+  {
+    "id": 4,
+    "en": "power",
+    "nl": "de kracht"
+  },
+  {
+    "id": 5,
+    "en": "these days",
+    "nl": "tegenwoordig"
+  },
+  {
+    "id": 6,
+    "en": "nod",
+    "nl": "knikken"
+  },
+  {
+    "id": 7,
+    "en": "famous",
+    "nl": "beroemd"
+  },
+  {
+    "id": 8,
+    "en": "independent",
+    "nl": "onafhankelijk"
+  },
+  {
+    "id": 9,
+    "en": "warrior",
+    "nl": "de strijder"
+  },
+  {
+    "id": 10,
+    "en": "guard",
+    "nl": "de bewaker"
+  },
+  {
+    "id": 11,
+    "en": "scroll",
+    "nl": "de rol"
+  },
+  {
+    "id": 12,
+    "en": "seal stamp",
+    "nl": "het zegel"
+  },
+  {
+    "id": 13,
+    "en": "suspiciously",
+    "nl": "achterdochtig"
+  },
+  {
+    "id": 14,
+    "en": "offer",
+    "nl": "aanbieden"
+  },
+  {
+    "id": 15,
+    "en": "load",
+    "nl": "de lading"
+  },
+  {
+    "id": 16,
+    "en": "transport",
+    "nl": "vervoeren"
+  },
+  {
+    "id": 17,
+    "en": "trust",
+    "nl": "vertrouwen"
+  },
+  {
+    "id": 18,
+    "en": "betray",
+    "nl": "verraden"
+  },
+  {
+    "id": 19,
+    "en": "war",
+    "nl": "de oorlog"
+  },
+  {
+    "id": 20,
+    "en": "moment",
+    "nl": "het ogenblik"
   }
 ]
